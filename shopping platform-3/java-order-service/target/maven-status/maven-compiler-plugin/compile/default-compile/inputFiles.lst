@@ -1,0 +1,16 @@
+D:\AAAAAA\shopping platform\java-order-service\src\main\java\com\shopping\order\common\GlobalExceptionHandler.java
+D:\AAAAAA\shopping platform\java-order-service\src\main\java\com\shopping\order\entity\Order.java
+D:\AAAAAA\shopping platform\java-order-service\src\main\java\com\shopping\order\controller\OrderController.java
+D:\AAAAAA\shopping platform\java-order-service\src\main\java\com\shopping\order\common\Result.java
+D:\AAAAAA\shopping platform\java-order-service\src\main\java\com\shopping\order\entity\OrderItem.java
+D:\AAAAAA\shopping platform\java-order-service\src\main\java\com\shopping\order\service\OrderService.java
+D:\AAAAAA\shopping platform\java-order-service\src\main\java\com\shopping\order\config\MybatisPlusConfig.java
+D:\AAAAAA\shopping platform\java-order-service\src\main\java\com\shopping\order\dto\OrderUpdateRequest.java
+D:\AAAAAA\shopping platform\java-order-service\src\main\java\com\shopping\order\exception\BusinessException.java
+D:\AAAAAA\shopping platform\java-order-service\src\main\java\com\shopping\order\service\impl\OrderServiceImpl.java
+D:\AAAAAA\shopping platform\java-order-service\src\main\java\com\shopping\order\mapper\OrderMapper.java
+D:\AAAAAA\shopping platform\java-order-service\src\main\java\com\shopping\order\mapper\OrderItemMapper.java
+D:\AAAAAA\shopping platform\java-order-service\src\main\java\com\shopping\order\dto\OrderCreateRequest.java
+D:\AAAAAA\shopping platform\java-order-service\src\main\java\com\shopping\order\dto\OrderVO.java
+D:\AAAAAA\shopping platform\java-order-service\src\main\java\com\shopping\order\OrderApplication.java
+D:\AAAAAA\shopping platform\java-order-service\src\main\java\com\shopping\order\dto\PageResult.java
